@@ -5,6 +5,7 @@ branches:
   only:
     - master  # ветка git
     - main
+    - pen9uin
 
 cache: node_modules  # кеширование
 
